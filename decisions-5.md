@@ -2,4 +2,4 @@
 
 1. [Задание 1](https://github.com/netology-code/git-2-homeworks-issues/issues/3134)
 2. [Задание 2](https://github.com/Dmitry-A-K/git-2-homeworks-pr)
-3. [Задание 3](https://github.com/Dmitry-A-K/git-2-homeworks-fork)
+3. [Задание 3](https://dmitry-a-k.github.io/Dmitry-A-K/)
